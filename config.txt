@@ -1,0 +1,9 @@
+
+          # Default language for metadata values
+          default.language = vi
+          default.locales = vi
+
+          # may be used, e. g: 
+          webui.supported.locales = vi, en
+
+          webui.strengths.show = true

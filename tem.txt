@@ -1,0 +1,3 @@
+* Copy thư mục bootstrap vào: C:\hcdt5\webapps\jspui\static\css\
+* Copy logo.jpg vào thư mục image C:\hcdt5\webapps\jspui\image ; 
+điều chỉnh lại header-default.jsp trong thư mục C:\hcdt5\webapps\jspui\layout theo hình dưới 

@@ -1,3 +1,3 @@
 * C:/dspace-5.1-src-release>mvn package
 * C:\dspace-5.1-src-release\dspace\target\dspace-installer>ant fresh_install 
-* C:/digital/bin>dspace create-administrator 
+* D:/digital/bin>dspace create-administrator 

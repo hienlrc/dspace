@@ -1,6 +1,6 @@
 ConnectionTimeout=”20000” THEM DONG: URIEncoding=”UTF-8”
 
-  <Context path="/digital" docBase="d:/digital/webapps/jspui" debug="0" reloadable="true" cachingAllowed="false" allowLinking="true"/>
-	<Context path="/oai" docBase="d:/digital/webapps/oai" debug="0" reloadable="true" cachingAllowed="false" allowLinking="true"/>
-	<Context path="/xmlui" docBase="d:/digital/webapps/xmlui"  debug="0" reloadable="true" cachingAllowed="false"  allowLinking="true"/>
-	<Context path="/solr" docBase="d:/digital/webapps/solr" debug="0" reloadable="true" cachingAllowed="false" allowLinking="true"/>
+<Context path="/digital" docBase="D:/digital/webapps/jspui" debug="0" reloadable="true" cachingAllowed="false" allowLinking="true"/>
+<Context path="/oai" docBase="D:/digital/webapps/oai" debug="0" reloadable="true" cachingAllowed="false" allowLinking="true"/>
+<Context path="/xmlui" docBase="D:/digital/webapps/xmlui"  debug="0" reloadable="true" cachingAllowed="false"  allowLinking="true"/>
+<Context path="/solr" docBase="D:/digital/webapps/solr" debug="0" reloadable="true" cachingAllowed="false" allowLinking="true"/>
